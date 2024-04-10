@@ -1,0 +1,120 @@
+[Mon Feb 26 22:55:43 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Mon Feb 26 22:55:43 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Mon Feb 26 22:55:43 2024] [notice] Parent: Created child process 4476
+[Mon Feb 26 22:55:43 2024] [notice] Child 4476: Child process is running
+[Mon Feb 26 22:55:43 2024] [notice] Child 4476: Acquired the start mutex.
+[Mon Feb 26 22:55:43 2024] [notice] Child 4476: Starting 64 worker threads.
+[Mon Feb 26 22:55:43 2024] [notice] Child 4476: Starting thread to listen on port 80.
+[Mon Feb 26 23:32:53 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/getfile.php?fname=F5Instruction.docx&fid=5
+[Tue Feb 27 10:04:59 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/virtual2.php?act=fog&fid=5&fname=F5Instruction.docx
+[Fri Mar 15 14:05:57 2024] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 15 14:05:57 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Fri Mar 15 14:05:57 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Mar 15 14:05:57 2024] [notice] Parent: Created child process 14816
+[Fri Mar 15 14:05:57 2024] [notice] Child 14816: Child process is running
+[Fri Mar 15 14:05:57 2024] [notice] Child 14816: Acquired the start mutex.
+[Fri Mar 15 14:05:57 2024] [notice] Child 14816: Starting 64 worker threads.
+[Fri Mar 15 14:05:57 2024] [notice] Child 14816: Starting thread to listen on port 80.
+[Fri Mar 15 14:14:22 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/virtual2.php?act=fog&fid=5&fname=F5Instruction.docx
+[Thu Mar 21 21:12:20 2024] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 21 21:12:20 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu Mar 21 21:12:20 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Mar 21 21:12:20 2024] [notice] Parent: Created child process 12504
+[Thu Mar 21 21:12:20 2024] [notice] Child 12504: Child process is running
+[Thu Mar 21 21:12:20 2024] [notice] Child 12504: Acquired the start mutex.
+[Thu Mar 21 21:12:20 2024] [notice] Child 12504: Starting 64 worker threads.
+[Thu Mar 21 21:12:20 2024] [notice] Child 12504: Starting thread to listen on port 80.
+[Thu Mar 21 21:15:06 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/virtual2.php?act=fog&fid=5&fname=F5Instruction.docx
+[Fri Mar 22 11:00:15 2024] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 22 11:00:15 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Fri Mar 22 11:00:15 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Mar 22 11:00:15 2024] [notice] Parent: Created child process 19484
+[Fri Mar 22 11:00:16 2024] [notice] Child 19484: Child process is running
+[Fri Mar 22 11:00:16 2024] [notice] Child 19484: Acquired the start mutex.
+[Fri Mar 22 11:00:16 2024] [notice] Child 19484: Starting 64 worker threads.
+[Fri Mar 22 11:00:16 2024] [notice] Child 19484: Starting thread to listen on port 80.
+[Fri Mar 22 11:03:45 2024] [error] [client 192.168.137.88] client denied by server configuration: C:/wamp/www/
+[Fri Mar 22 11:12:00 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/virtual2.php?act=fog&fid=5&fname=F5Instruction.docx
+[Sun Mar 24 12:54:37 2024] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 24 12:54:37 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sun Mar 24 12:54:37 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Sun Mar 24 12:54:37 2024] [notice] Parent: Created child process 9724
+[Sun Mar 24 12:54:37 2024] [notice] Child 9724: Child process is running
+[Sun Mar 24 12:54:37 2024] [notice] Child 9724: Acquired the start mutex.
+[Sun Mar 24 12:54:37 2024] [notice] Child 9724: Starting 64 worker threads.
+[Sun Mar 24 12:54:37 2024] [notice] Child 9724: Starting thread to listen on port 80.
+[Sun Mar 24 13:47:35 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/virtual2.php?act=fog&fid=5&fname=F5Instruction.docx
+[Mon Mar 25 14:33:00 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/virtual2.php?act=fog&fid=5&fname=F5Instruction.docx
+[Mon Mar 25 18:35:08 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/virtual2.php?act=fog&fid=5&fname=F5Instruction.docx
+[Wed Mar 27 15:04:54 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/virtual2.php?act=fog&fid=5&fname=F5Instruction.docx
+[Thu Mar 28 08:42:25 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Thu Mar 28 10:15:17 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Fri Mar 29 09:01:48 2024] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 29 09:01:48 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Fri Mar 29 09:01:48 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Mar 29 09:01:48 2024] [notice] Parent: Created child process 18244
+[Fri Mar 29 09:01:48 2024] [notice] Child 18244: Child process is running
+[Fri Mar 29 09:01:48 2024] [notice] Child 18244: Acquired the start mutex.
+[Fri Mar 29 09:01:48 2024] [notice] Child 18244: Starting 64 worker threads.
+[Fri Mar 29 09:01:48 2024] [notice] Child 18244: Starting thread to listen on port 80.
+[Fri Mar 29 09:02:20 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/virtual2.php?act=fog&fid=5&fname=F5Instruction.docx
+[Mon Apr 01 18:50:39 2024] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 01 18:50:39 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Mon Apr 01 18:50:39 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Mon Apr 01 18:50:39 2024] [notice] Parent: Created child process 14908
+[Mon Apr 01 18:50:39 2024] [notice] Child 14908: Child process is running
+[Mon Apr 01 18:50:39 2024] [notice] Child 14908: Acquired the start mutex.
+[Mon Apr 01 18:50:39 2024] [notice] Child 14908: Starting 64 worker threads.
+[Mon Apr 01 18:50:39 2024] [notice] Child 14908: Starting thread to listen on port 80.
+[Tue Apr 02 00:17:51 2024] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 02 00:17:51 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Tue Apr 02 00:17:51 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Apr 02 00:17:51 2024] [notice] Parent: Created child process 16952
+[Tue Apr 02 00:17:51 2024] [notice] Child 16952: Child process is running
+[Tue Apr 02 00:17:51 2024] [notice] Child 16952: Acquired the start mutex.
+[Tue Apr 02 00:17:51 2024] [notice] Child 16952: Starting 64 worker threads.
+[Tue Apr 02 00:17:51 2024] [notice] Child 16952: Starting thread to listen on port 80.
+[Tue Apr 02 00:19:24 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/virtual2.php?act=fog&fid=5&fname=F5Instruction.docx
+[Wed Apr 03 19:35:52 2024] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 03 19:35:52 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Apr 03 19:35:52 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Apr 03 19:35:52 2024] [notice] Parent: Created child process 15764
+[Wed Apr 03 19:35:52 2024] [notice] Child 15764: Child process is running
+[Wed Apr 03 19:35:52 2024] [notice] Child 15764: Acquired the start mutex.
+[Wed Apr 03 19:35:52 2024] [notice] Child 15764: Starting 64 worker threads.
+[Wed Apr 03 19:35:53 2024] [notice] Child 15764: Starting thread to listen on port 80.
+[Wed Apr 03 20:39:34 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/getfile.php?fname=F28chapter%20%20(1).docx&fid=28
+[Thu Apr 04 08:46:38 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Thu Apr 04 08:46:43 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Thu Apr 04 08:54:58 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Thu Apr 04 13:03:33 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Thu Apr 04 14:09:05 2024] [error] [client 192.168.137.236] client denied by server configuration: C:/wamp/www/
+[Thu Apr 04 15:11:36 2024] [error] [client 192.168.137.97] client denied by server configuration: C:/wamp/www/
+[Thu Apr 04 15:43:41 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Thu Apr 04 15:59:43 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Thu Apr 04 22:46:45 2024] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 04 22:46:45 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu Apr 04 22:46:45 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Apr 04 22:46:45 2024] [notice] Parent: Created child process 17124
+[Thu Apr 04 22:46:45 2024] [notice] Child 17124: Child process is running
+[Thu Apr 04 22:46:45 2024] [notice] Child 17124: Acquired the start mutex.
+[Thu Apr 04 22:46:45 2024] [notice] Child 17124: Starting 64 worker threads.
+[Thu Apr 04 22:46:45 2024] [notice] Child 17124: Starting thread to listen on port 80.
+[Thu Apr 04 22:47:58 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/virtual2.php?act=fog&fid=5&fname=F5Instruction.docx
+[Fri Apr 05 11:28:30 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Fri Apr 05 11:28:36 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Fri Apr 05 13:17:36 2024] [error] [client 192.168.137.139] client denied by server configuration: C:/wamp/www/
+[Fri Apr 05 13:17:43 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Fri Apr 05 13:38:15 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Sat Apr 06 11:12:07 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Sat Apr 06 14:19:20 2024] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 06 14:19:20 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sat Apr 06 14:19:20 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Sat Apr 06 14:19:20 2024] [notice] Parent: Created child process 19068
+[Sat Apr 06 14:19:20 2024] [notice] Child 19068: Child process is running
+[Sat Apr 06 14:19:20 2024] [notice] Child 19068: Acquired the start mutex.
+[Sat Apr 06 14:19:20 2024] [notice] Child 19068: Starting 64 worker threads.
+[Sat Apr 06 14:19:20 2024] [notice] Child 19068: Starting thread to listen on port 80.
+[Sat Apr 06 14:20:38 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/virtual2.php?act=fog&fid=5&fname=F5Instruction.docx
+[Sat Apr 06 15:34:34 2024] [error] [client 192.168.137.220] client denied by server configuration: C:/wamp/www/
+[Mon Apr 08 13:05:15 2024] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/virtualbox/virtual2.php?act=fog&fid=5&fname=F5Instruction.docx
